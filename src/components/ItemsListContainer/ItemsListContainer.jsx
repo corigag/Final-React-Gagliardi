@@ -1,5 +1,5 @@
 export const ItemsListContainer = ({greeting}) => {
     return (
-       <div>{greeting}</div>
+       <div className="m-3">{greeting}</div>
     )
   }
