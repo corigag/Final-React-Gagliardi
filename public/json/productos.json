@@ -1,0 +1,168 @@
+[
+    {
+        "id":1,
+        "idCategoria": 2,
+        "categoria": "Higiene",
+        "name":"Shampoo Solido",
+        "image": "shampoo.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 1300,
+        "stock": 60,
+        "amount": 1
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "categoria": "Higiene",
+        "name": "Acondicionador Solido",
+        "image": "acondicionador.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 1200,
+        "stock": 5,
+        "amount": 1
+    },
+    {
+        "id":3,
+        "idCategoria": 2,
+        "categoria": "Higiene",
+        "name": "Desodorante Natural",
+        "image": "desodorante.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 900,
+        "stock": 0,
+        "amount": 1
+    },
+    {
+        "id":4,
+        "idCategoria": 2,
+        "categoria": "Higiene",
+        "name": "Oleo Corporal",
+        "image": "oleo.jpg",
+        "price": 900,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 15,
+        "amount": 1
+    },
+    {
+        "id":5,
+        "idCategoria": 2,
+        "categoria": "Higiene",
+        "name": "Pasta Dental",
+        "image": "pasta.jpg",
+        "price": 900,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 15,
+        "amount": 1
+    },
+    {
+        "id":6,
+        "idCategoria": 4,
+        "categoria": "Cremas",
+        "name": "Crema de Día",
+        "image": "crema_dia.jpg",
+        "price": 1500,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 30,
+        "amount": 1
+    },
+    {
+        "id":7,
+        "idCategoria": 4,
+        "categoria": "Cremas",
+        "name": "Crema de Noche",
+        "image": "crema_nocturna.jpg",
+        "price": 1800,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 25,
+        "amount": 1
+    },
+    {
+        "id":8,
+        "idCategoria": 4,
+        "categoria": "Cremas",
+        "name": "Gel Regenerativo",
+        "image": "gel.jpg",
+        "price": 1500,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 0,
+        "amount": 1
+    },
+    {
+        "id":9,
+        "idCategoria": 4,
+        "categoria": "Cremas",
+        "name": "Crema Medicinal",
+        "image": "crema_medicinal.jpg",
+        "price": 1500,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 15,
+        "amount": 1
+    },
+    {
+        "id":10,
+        "idCategoria": 1,
+        "categoria": "Tinturas",
+        "name": "Tintura Madre",
+        "image": "tintura.jpg",
+        "price": 800,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 15,
+        "amount": 1
+    },
+    {
+        "id":11,
+        "idCategoria": 1,
+        "categoria": "Tinturas",
+        "name": "Tintura Madre para Mascotas",
+        "image": "tintu_mascota.jpg",
+        "price": 600,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 15,
+        "amount": 1
+    },
+    {
+        "id":12,
+        "idCategoria": 3,
+        "categoria": "Verano",
+        "name": "Repelente Natural",
+        "image": "repelente.jpg",
+        "price": 1000,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 13,
+        "amount": 1
+    },
+    {
+        "id":13,
+        "idCategoria": 3,
+        "categoria": "Verano",
+        "name": "Protector Solar",
+        "image": "protector.jpg",
+        "price": 1500,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 14,
+        "amount": 1
+    },
+    {
+        "id":14,
+        "idCategoria": 3,
+        "categoria": "Verano",
+        "name": "Aceite Bronceador",
+        "image": "aceite_bifasico.jpg",
+        "price": 1400,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 0,
+        "amount": 1
+    },
+    {
+        "id":15,
+        "idCategoria": 3,
+        "categoria": "Verano",
+        "name": "Aceite Bronceador Bifásico",
+        "image": "aceite_bronceador.jpg",
+        "price": 1800,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "stock": 15,
+        "amount": 1
+    }
+]
+
