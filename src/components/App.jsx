@@ -15,7 +15,7 @@ export const App = () => {
       
       <Routes>
         <Route path='/' element={<ItemsListContainer />}/>
-        <Route path='/category/:idCategoria' element={<ItemsListContainer />}/>
+        <Route path='/category/:categoria' element={<ItemsListContainer />}/>
         <Route path='/item/:id' element={<ItemDetailContainer/>}/>
       </Routes>
     </BrowserRouter>

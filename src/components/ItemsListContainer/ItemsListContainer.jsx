@@ -5,24 +5,7 @@ import { ItemList } from "../ItemList/ItemList";
 
 export const ItemsListContainer = () => {
 
-   let categorias = [
-      {
-         id:1,
-         descripcion:"Tinturas"
-      },
-      {
-         id:2,
-         descripcion:"Higiene"
-      },
-      {
-         id:3,
-         descripcion:"Verano"
-      },
-      {
-         id:4,
-         descripcion:"Cremas"
-      },
-   ]
+  
 
    const {categoria} = useParams() 
    const [productos, setProductos] = useState([]) 
