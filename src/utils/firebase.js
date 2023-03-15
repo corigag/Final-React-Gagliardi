@@ -6,7 +6,7 @@ import { getFirestore, collection, addDoc, getDocs, getDoc , doc , updateDoc, de
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCSJhVr7DbZ71OVy9L8kP2qJsjAz0B8GzY",
+  apiKey: process.env.API_KEY,
   authDomain: "hampiyura-react-44995.firebaseapp.com",
   projectId: "hampiyura-react-44995",
   storageBucket: "hampiyura-react-44995.appspot.com",
