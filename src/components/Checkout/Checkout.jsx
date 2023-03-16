@@ -3,7 +3,7 @@ import { useRef } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify'
 import { useCarritoContext } from '../../context/carritoContext'
-import { createOrdenCompra, getOrdenCompra, getProduct , updateProduct} from '../../utils/firebase'
+import { createOrdenCompra, getProduct , updateProduct} from '../../utils/firebase'
 import { Link } from 'react-router-dom'
 
 export const Checkout = () => {
@@ -43,7 +43,7 @@ export const Checkout = () => {
 
       } else {
 
-      const ordenCompra = createOrdenCompra(cliente, {aux} , totalPrice(), new Date().toISOString()).then(ordenCompra => {
+      createOrdenCompra(cliente, {aux} , totalPrice(), new Date().toISOString()).then(ordenCompra => {
         
         toast(`Compra finalizada. /n Gracias por elegir Hampi Yura. Su orden de compra ${ordenCompra.id} por un total de ${totalPrice()} fue realizada con exito`, {
           position: "top-right",

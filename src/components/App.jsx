@@ -20,7 +20,7 @@ import { CarritoProvider } from '../context/carritoContext';
 import { cargarBDD } from '../utils/firebase';
 
 export const App = () => {
-  cargarBDD()
+  //cargarBDD()
   return (
     <>
     <BrowserRouter>

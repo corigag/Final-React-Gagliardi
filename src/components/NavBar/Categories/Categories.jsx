@@ -5,7 +5,7 @@ export const Categories = () => {
   return (
   
         <li className="nav-item dropdown">
-           <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+           <a className="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           <button className='btn'> Productos</button> 
            </a>
            <ul className="dropdown-menu">
