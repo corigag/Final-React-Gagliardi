@@ -5,7 +5,7 @@
         "categoria": "Higiene",
         "name":"Shampoo Solido",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/shampoo.jpg?alt=media&token=63e27f39-2ca7-466e-97de-103d9032e06e",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "♻️ Ecológico y biodegradable.♻️\n No generan plástico, ni contaminan el agua\n 🍃 Se utiliza una planta medicinal para cada tipo de cabello.\n 🦄 Es orgánico y vegano, y sus resultados son instantáneos.\n 🥑 Nutren y sanan los cabellos de cualquier tipo, dejándolos suaves y brillosos.",
         "price": 1300,
         "stock": 60,
         "amount": 1
@@ -16,7 +16,7 @@
         "categoria": "Higiene",
         "name": "Acondicionador Solido",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/acondicionador.jpg?alt=media&token=561be71d-47ed-4eca-9460-979ca831d7b8",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "♻️ Son naturales y veganos. Generan 0% residuos. No usamos plástico, es parte del cambio que el cuidado de nuestro medio ambiente requiere.\n 💚🌱 Es tan natural, que el agua que uses para ducharte con este producto puede utilizarse para regar tus plantas.\n ¿Cómo se usa?\n  Habiéndonos lavado y enjuagado la cabeza con el shampoo, y con el pelo bien humedecido procederemos a aplicar el acondicionador solo en el cabello, no lse usa sobre el cuero cabelludo, lo extenderemos por todo el pelo usando nuestros dedos como si fueran un peine y lo dejaremos actuar por unos minutos luego se enjuaga y ¡listo!\n Es importante que sepas que su empleo es algo distinto al acondicionador líquido, ya que no generará una pasta sobre el pelo, sino más bien una delgada capa que lo nutre e hidrata, y que la cantidad a usar la determinarás con tu propia experiencia.\n  Su durabilidad depende en gran medida del largo de tu pelo.",
         "price": 1200,
         "stock": 5,
         "amount": 1
@@ -27,7 +27,7 @@
         "categoria": "Higiene",
         "name": "Desodorante Natural",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/desodorante.jpg?alt=media&token=9ce8bea8-65d7-4c4b-ab6e-02b65d604d42",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "♻️ Son naturales y veganos. Generan 0% residuos. No usamos plástico, es parte del cambio que el cuidado de nuestro medio ambiente requiere.\n 🛍️ Incluye una bolsita de tela para que puedas llevarlo en tu bolso, mochila, cartera a cualquier lugar y lavarla.\n ¿Cómo se usa?\n Muy sencillo, solo requiere de un poco de humedad, con la cual podés aplicarlo. Luego de haberte duchado o bien mojandolo tan solo un poco con agua está listo para pasarlo por tu piel.\n ¡Súmate al cambio!",
         "price": 900,
         "stock": 0,
         "amount": 1
@@ -39,7 +39,7 @@
         "name": "Oleo Corporal",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/oleo.jpg?alt=media&token=20fe9c25-b4c2-4a06-8796-3da658692abf",
         "price": 900,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Super nutritivos para la piel.\n Elaborados a mano con aceite de almendras, coco, manteca de cacao, karité. Activos botánicos, aceites esenciales y vitamina E.\n 🌼 Te presentamos una alternativa saludable, práctica y sustentable e igual de eficaz que las cremas corporales.\n  ♻️ Son naturales y veganos. Generan 0% residuos. No usamos plástico, es parte del cambio que el cuidado de nuestro medio ambiente requiere.\n  ¿Cómo se usa?\n El óleo tiende a “derretirse” ligeramente, al entrar en contacto con tu piel, con el propio calor de tu cuerpo; luego es cuestión de que la frotes y distribuyas a tu gusto.\n Su durabilidad es difícil de estimar en parámetros generales, te recomendamos que la estimes con la frecuencia de su uso.",
         "stock": 15,
         "amount": 1
     },
@@ -50,7 +50,7 @@
         "name": "Pasta Dental",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/pasta.jpg?alt=media&token=909ff2f6-da65-45cf-9ccf-311a1c2e0043",
         "price": 900,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "♻️ SIN FLUOR, NI QUIMICOS ♻️\n ¡Hecha a mano, 100% natural y vegana!❄️🍃🦷\n Elaborada con:\n -Aceite de coco\n  -Agua bidestilada\n Activos botánicos para las encías y protección de nuestros dientes\n -Tinturas madres que aportan propiedades para los dientes sensibles y esencias cuidandonos de las caries y problemas bucales.\n Genera 0% residuos. No usamos plástico, es parte del cambio que el cuidado de nuestro medio ambiente requiere. El frasco de vidrio es retornable 🌎💚\n Nuestra pasta dental es una alternativa súper saludable a comparación del dentífrico tradicional, fabricado con muchos ingredientes #tóxicos ⚠️ de la industria petroquímica perjudiciales para el cuerpo",
         "stock": 15,
         "amount": 1
     },
@@ -61,7 +61,7 @@
         "name": "Crema de Día",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/crema_dia.jpg?alt=media&token=380ccc17-9ee0-4578-be8a-b383d9d11646",
         "price": 1500,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Esta crema tiene como principales plantas activas Caléndula, Manzanilla medicinal y Llanten. /n Es apta para todo el cuerpo pero, por la la calidad de sus aceites, es recomendable para la cara y las manos, zonas de cicatrices y problemas cutáneos. Es recomendable para todo tipo de pieles mas excelente para pieles grasas, ya que regula el exceso de oleosidad y sebo.\n Ingredientes fijos:\n - Aceite de palta\n - Aceite de almendras macerada en caléndula y manzanilla medicinal\n - Activos botánicos\n - Infusión de cola de caballo y salvia\n - Glicólico de pétalos de rosas\n - Vitamina E\n - Esencia de melisa\n Es Anti-inflamatoria, cicatrizante, antioxidante, regeneradora celular.\n Excelente para eccemas, dermatitis, úlceras, quemaduras, heridas, granos, acné, picazón y quemaduras solares.",
         "stock": 30,
         "amount": 1
     },
@@ -72,7 +72,7 @@
         "name": "Crema de Noche",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/crema_nocturna.jpg?alt=media&token=78155789-0516-4181-b7b7-41a953df1a00",
         "price": 1800,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Tiene como ingrediente principal la planta de lavanda medicinal.\n \n ◽Ingredientes fijos:\n Aceite de pepitas de uva\n Aceite de almendras macerada con lavanda en ciclo lunar\n Infusión de ortiga y cola de caballo\n Infusión de flor de hibisco\n Glicolico de pétalos de rosa\n Vitamina E\n Esencia de lavanda\n 🍃 Por la calidad de sus aceites, esta crema es recomendable para la cara y las manos.\n Antiinflamatoria, antiséptica, ayuda a combatir las bacterias que causan acné, evita las arrugas, sana heridas y quemaduras. Para pieles grasas, ya que limpia los poros y regula el exceso de sebo. Ideal por sus propiedades para uso nocturno y tratamientos antiage.\n 🌺 Con infusión de flor de hibisco, para una mayor elasticidad en la piel.\n Previene el daño celular, combate los radicales libres que provocan la oxidación antimanchas. Hidrata en profundidad. Unifica el tono de piel. \n Efectos beneficiosos en casos de hiper pigmentación.\n  Considerada una receta natural y eficaz para acompañar a nuestra piel en el paso del tiempo.⏳💚",
         "stock": 25,
         "amount": 1
     },
@@ -83,7 +83,7 @@
         "name": "Gel Regenerativo",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/gel.jpg?alt=media&token=168daf1e-eb6e-4f69-9826-5742cbdcac70",
         "price": 1500,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Conocer el tratamiento apropiado para tu cutis 😌 y así mejorar su aspecto para retrasar el proceso de envejecimiento ahora es más sencillo gracias a nuestro gel regenerativo. 💧🌿\n Es como una crema pero con una textura mucho más liviana ya que al ser gel,  tiene más agua que aceites.\n Excelente post solar y apto para uso diario.\n Si se guarda en la heladera es super fresco e ideal para el verano🍹🏖️ .\n Se puede aplicar como mascarilla  dejandolo actuar durante 10 minutos y luego enjuagando con agua.\n Elaborado a base de Caléndula, Manzanilla y Lavanda, maceradas en un ciclo lunar en aceite de almendras.\n Las propiedades de estas 3 plantas van muy bien para todo lo que es PIEL ROJA, IRRITADA, QUEMADA, etc 🏵️",
         "stock": 3,
         "amount": 1
     },
@@ -94,7 +94,7 @@
         "name": "Crema Medicinal",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/crema_medicinal.jpg?alt=media&token=981249f4-b9c9-403c-aea3-24879302d16a",
         "price": 1500,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Crema medicinal de Cannabis, Jarilla, Hipérico y Romero 🍁\f  Siempre tendrá como principales plantas el CANNABIS medicinal,  la JARILLA y el ROMERO.\n * Ingredientes fijos:\n -Aceite de almendras macerado en cannabis en ciclo lunar \n -Aceite de almendras macerado en jarilla en ciclo lunar.\n -Infusión de romero.\n -Activos botánico.\n -Vitamina E.\n -Esencia de Romero.\n 🍂 Con propiedades calmantes y desinflamatorias.\n  Ideal para contracturas, dolores, artrosis, artritis, fatiga muscular, músculos estresados, tensiones y cualquier tipo de golpe ya que actúa como analgésico.\n Trabaja problemas dermicos en la piel como psoriasis o brotes infecciosos, alérgicos, etc.",
         "stock": 15,
         "amount": 1
     },
@@ -102,10 +102,10 @@
         "id":10,
         "idCategoria": 1,
         "categoria": "Tinturas",
-        "name": "Tintura Madre",
+        "name": "Tintura Madre 30ml",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/tintura.jpg?alt=media&token=189c4d14-2f27-43a8-941a-4c743a29fd7e",
         "price": 800,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Una tintura madre es la maceración alcohólica de una planta medicinal (previamente deshidratada) que mantiene y concentra todos sus principios activos de la planta. Junto con sus rezos e intenciones.\n Nos ayudan a tratar problemas:\n Del sistema inmunológico, nervioso, respiratorio, urinario, digestivo, y cualquier problemática de nuestro organismo y emociones.\n Ponete en contacto con nosotros para obtener atención personalizada y nuestro catálogo de tinturas.",
         "stock": 15,
         "amount": 1
     },
@@ -113,10 +113,10 @@
         "id":11,
         "idCategoria": 1,
         "categoria": "Tinturas",
-        "name": "Tintura Madre para Mascotas",
+        "name": "Tintura Madre 60ml",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/tintu_mascota.jpg?alt=media&token=f902d9fc-b04f-452c-8dac-88008f44ede3",
-        "price": 600,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 1200,
+        "description": "Una tintura madre es la maceración alcohólica de una planta medicinal (previamente deshidratada) que mantiene y concentra todos sus principios activos de la planta. Junto con sus rezos e intenciones.\n Nos ayudan a tratar problemas:\n Del sistema inmunológico, nervioso, respiratorio, urinario, digestivo, y cualquier problemática de nuestro organismo y emociones.\n Ponete en contacto con nosotros para obtener atención personalizada y nuestro catálogo de tinturas.",
         "stock": 15,
         "amount": 1
     },
@@ -127,7 +127,7 @@
         "name": "Repelente Natural",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/repelente.jpg?alt=media&token=2808b0f1-47ca-4e7a-8cab-249b125c5f16",
         "price": 1000,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Una nueva alternativa para combatir los mosquitos e insectos de una forma más sana para el medioambiente y tu cuerpx.\n El repelente natural además de crear una barrera natural frente a los mosquitos, contiene más de 7 plantas que son excelentes para nuestra piel. No irrita y puede utilizarse para niñes.\n  ♻️ El repelente está presentado en un recipiente de vidrio retornable.\n  🌿 Sus ingredientes varían según disponibilidades de plantas.\n  ✳Elaborado a base de:\n  Agua bidestilada, Aceite de almendras, Tinturas madres maceradas en ciclo lunar, Maceración de plantas, Cintronela, Lavanda, Tea tree, Lemon grass, Romero, Menta, Eucalipto, Clavo de olor.",
         "stock": 13,
         "amount": 1
     },
@@ -138,7 +138,7 @@
         "name": "Protector Solar",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/protector.jpg?alt=media&token=b43802c3-629c-48a2-a357-0fe06e269216",
         "price": 1500,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Elaborado con nuestra fórmula natural, que respeta la piel y no contamina el medio ambiente.\n Es un producto natural y vegano que ayuda a nuestro planeta, a nuestros animales y a tu cuerpo 😌\n Realizado a base de:\n . Manteca 🧈 de Karité\n . Aceite de almendras o coco 🌴 según la piel\n . Aceite de sesamo que contiene alto nivel de protección solar.\n . Cera Carnawa o Carnauba\n. Óxido de zinc que protege la piel de los rayos ultravioletas\n . Y Vitamina E, que además de proteger frente a los rayos del sol, difumina las cicatrices, elimina los pequeños granitos e imperfecciones y es antioxidante\n Todos los ingredientes del protector solar tienen barreras naturales frente al sol, por ejemplo el óxido de zinc tiene un factor 30/40, evitando las quemaduras solares, el eritema, las manchas solares y la irritación de la piel ☝🏼",
         "stock": 14,
         "amount": 1
     },
@@ -149,7 +149,7 @@
         "name": "Aceite Bronceador",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/aceite_bifasico.jpg?alt=media&token=487a095e-c99a-42bd-9a6f-579112326140",
         "price": 1400,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Super efectivo.\n A base de oleato de zanahoria, oleato de urucum, vitamina E, aceite esencial de lavanda y menta.\n Los bronceadorores nos ayudan, a traves de sus activos e ingredientes, a pigmentar mejor y mas facil nuestra piel; a adquirir una mejor tonalidad de forma mas rápida.\n Poseen un minimo factor de protección, no es apto para el uso en pieles muy sensibles al sol.\n ¡En Hampi Yura te ofrecemos bronceadorores naturales para conseguir el color que buscas este verano! 😎🏖️",
         "stock": 0,
         "amount": 1
     },
@@ -160,7 +160,7 @@
         "name": "Aceite Bronceador Bifásico",
         "image": "https://firebasestorage.googleapis.com/v0/b/hampiyura-react-44995.appspot.com/o/aceite_bronceador.jpg?alt=media&token=78360f78-94bb-4472-a4b7-6115dcae3175",
         "price": 1800,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "description": "Agitar antes de usar para integrar sus fases.\n Elaborado con hidrolato de manzanilla y lavanda, oleato de zanahoria, oleato de urucum, vitamina E, aceite esencial lavanda, menta y conservante natural.\n Los bronceadorores nos ayudan, a traves de sus activos e ingredientes, a pigmentar mejor y mas facil nuestra piel; a adquirir una mejor tonalidad de forma mas rápida.\n Poseen un minimo factor de protección, no es apto para el uso en pieles muy sensibles al sol.\n  ¡En Hampi Yura te ofrecemos bronceadorores naturales para conseguir el color que buscas este verano! 😎🏖️",
         "stock": 15,
         "amount": 1
     }

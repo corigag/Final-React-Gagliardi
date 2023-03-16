@@ -19,16 +19,16 @@ export const Checkout = () => {
 
     
     const aux =   [...carrito]
-    
+
     aux.forEach(prodCarrito => { 
-      console.log(prodCarrito.name, prodCarrito.stock , prodCarrito.cant)
-      getProduct(prodCarrito.id).then(prodBDD =>{ 
-        prodBDD.stock -= prodCarrito.cant
-        updateProduct(prodBDD.id , prodBDD)
-        
+      getProduct(prodCarrito.id).then(prodBDD => {
+        console.log(prodCarrito.name, prodCarrito.stock, prodCarrito.cant)
+          prodBDD.stock -= prodCarrito.cant 
+          updateProduct(prodBDD.id, prodBDD)
       })
-      
-      if(cliente.email !== cliente.repeatEmail){
+  })
+    
+      if(cliente.email !== cliente.repeatEmail && cliente.email !== ""){
         
         toast.error('El correo electronico ingresado no es correcto.', {
           position: "top-right",
@@ -42,28 +42,28 @@ export const Checkout = () => {
           });
 
       } else {
-        const ordenCompra = createOrdenCompra(cliente, {aux} , totalPrice(), new Date().toISOString()).then(ordenCompra => {
-          
-          toast(`Compra finalizada. /n Gracias por elegir Hampi Yura. Su orden de compra ${ordenCompra.id} por un total de ${totalPrice()} fue realizada con exito`, {
-            position: "top-right",
-            autoClose: 5000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: true,
-            progress: undefined,
-            theme: "colored",
-            });
-        })
 
-        e.target.reset()
-        emptyCart()
-        navigate("/")
+      const ordenCompra = createOrdenCompra(cliente, {aux} , totalPrice(), new Date().toISOString()).then(ordenCompra => {
+        
+        toast(`Compra finalizada. /n Gracias por elegir Hampi Yura. Su orden de compra ${ordenCompra.id} por un total de ${totalPrice()} fue realizada con exito`, {
+          position: "top-right",
+          autoClose: 5000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+          theme: "colored",
+          });
+      })
 
-      }
+      e.target.reset()
+      emptyCart()
+      navigate("/")
 
-    })
+    }
 
+  
   }
   return (
     <>
@@ -88,37 +88,37 @@ export const Checkout = () => {
                     <div className="row">
                       <div className="form-group col-sm-6">
                         <label className="mb-1" htmlFor="card-holder">Nombre</label>
-                        <input name="name" type="text" className="form-control"  />
+                        <input name="name" type="text" className="form-control" required  />
                       </div>
                       <div className="form-group col-sm-6">
                         <label className="mb-1" htmlFor="surname">Apellido</label>
                       <div className="input-group ">
-                        <input name="surname" type="text" className="form-control"  />
+                        <input name="surname" type="text" className="form-control" required  />
                       </div>
                     </div>
                     <div className="form-group col-sm-12">
                       <label className="mb-1" htmlFor="card-number">Direccion de Envío</label>
-                      <input name="adress" type="text" className="form-control"  />
+                      <input name="adress" type="text" className="form-control" required  />
                     </div>
                     <div className="form-group col-sm-8">
                       <label className="mb-1" htmlFor="card-number">Ciudad</label>
-                      <input name="city" type="text" className="form-control" aria-label="Card Holder"  />
+                      <input name="city" type="text" className="form-control" aria-label="Card Holder" required  />
                     </div>
                     <div className="form-group col-sm-4">
                       <label className="mb-1" htmlFor="cvc">Código Postal</label>
-                      <input name="postCode" type="text" className="form-control" aria-label="Card Holder"  />
+                      <input name="postCode" type="text" className="form-control" aria-label="Card Holder" required  />
                     </div>
                     <div className="form-group col-sm-12">
                       <label className="mb-1" htmlFor="card-number">Correo Electrónico</label>
-                      <input name="email" type="text" className="form-control"  />
+                      <input name="email" type="text" className="form-control" required  />
                     </div>
                     <div className="form-group col-sm-12">
                       <label className="mb-1" htmlFor="card-number">Repetir correo electrónico</label>
-                      <input name="repeatEmail" type="text" className="form-control"  />
+                      <input name="repeatEmail" type="text" className="form-control" required  />
                     </div>
                     <div className="form-group col-sm-12">
                       <label className="mb-1" htmlFor="card-number">Teléfono</label>
-                      <input name="phoneNumber" type="number" className="form-control"  />
+                      <input name="phoneNumber" type="number" className="form-control" required  />
                     </div>
                     </div>
                     </div>

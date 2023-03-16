@@ -27,6 +27,17 @@ font-family: 'DM Sans', sans-serif;
     height: 100px;
     box-shadow: 0 0 10px 1px black;
 	}
+
+.footer {
+	background-color: #F0DCCA;
+	min-height: 40vh;
+	width: 100%;
+ }
+	  
+.footer , .footer_icono  {
+	width: 1.8rem;
+	height: 1.8rem;
+}
   
 .cantCarrito{
     color:#735960;

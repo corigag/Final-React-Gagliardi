@@ -17,10 +17,10 @@ import { ToastContainer } from 'react-toastify';
 //Context
 import { CarritoProvider } from '../context/carritoContext';
 
-
+import { cargarBDD } from '../utils/firebase';
 
 export const App = () => {
-  
+  cargarBDD()
   return (
     <>
     <BrowserRouter>
